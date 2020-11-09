@@ -8,7 +8,7 @@ git config --global user.name "nombre"
 ```
 #### Dirección de correo que nos identifica
 ```
-git config --global user.email correo@
+git config --global user.email 
 ```
 
 #### Esta herramienta nos sirve para comparar diferencias entre ficheros
@@ -217,7 +217,7 @@ git tag
 ```
 git tag -a v0.0 -, 'version 0.0'
 ```
-####~Etiqueta ligera
+#### Etiqueta ligera
 ```
 git tag v0.1-lw
 ```
@@ -226,6 +226,7 @@ git tag v0.1-lw
 # OPCIONES GRÁFICAS DE GIT:
 - Atlassian SourceTree
 - GitKraken	//Mi elección
+- GitHub Desktop
 <br /><br />	 	 	 	 	 
 					 
 # HERRAMIENTAS INTERESANTES 
