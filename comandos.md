@@ -8,7 +8,7 @@ git config --global user.name "nombre"
 ```
 #### Dirección de correo que nos identifica
 ```
-git config --global user.email 
+git config --global user.email ejemplo@ejemplo.com
 ```
 
 #### Esta herramienta nos sirve para comparar diferencias entre ficheros
